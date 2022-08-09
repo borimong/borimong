@@ -11,3 +11,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borimong)](https://github.com/borimong/github-readme-stats)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=61DAFB"/>
