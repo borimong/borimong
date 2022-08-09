@@ -8,5 +8,5 @@
 
   <img src="http://mazandi.herokuapp.com/api?handle={kimhyunsu11}&theme=warm"/>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/kimhyunsu11/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/borimong/github-readme-stats)
 
