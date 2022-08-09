@@ -12,4 +12,4 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=61DAFB"/>
