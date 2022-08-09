@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
