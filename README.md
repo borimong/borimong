@@ -20,10 +20,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
-<img src="https://img.shields.io/badge/-?style=flat-square&logo=&logoColor=white"/>
+<img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 
 
 
