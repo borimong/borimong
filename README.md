@@ -12,7 +12,7 @@
 
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html&logoColor=black"/>
 
 
 
