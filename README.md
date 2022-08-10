@@ -10,7 +10,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)<br/>
 
-<img src="http://mazandi.herokuapp.com/api?handle={kimhyunsu11}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle={kimhyunsu11}&theme=cold"/>
 
 
 ## :rocket: Skill stacks learned so far :rocket:
