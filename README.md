@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=11&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=12&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60)
 
 ## :ear_of_rice: Borimong's Github Status :ear_of_rice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=radical)
