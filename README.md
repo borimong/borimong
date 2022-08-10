@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=dracula)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)<br/>
 
