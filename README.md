@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20I'm Hyeonsu Kim&render&fontSize=90)
-
-
-출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=radical)
 
