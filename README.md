@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=13&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60&fontAlignY=40&animation=scaleIn&desc=Dreams%20come%20true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=13&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60&fontAlignY=40&animation=blinking&desc=Dreams%20come%20true)
 ## :ear_of_rice: Borimong's Github Status :ear_of_rice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=radical)
 
