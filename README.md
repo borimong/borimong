@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60)
 
-<div align = center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)<br/>
@@ -25,4 +24,3 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 </p>
 
-</div>
