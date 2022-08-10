@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=13&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=13&height=250&section=header&text=Welcome%20to%20Borimong's%20World&fontSize=60&fontAlignY=40&animation=twinkling&desc=What doesn't kill you makes you stronger)
 ## :ear_of_rice: Borimong's Github Status :ear_of_rice:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=borimong&show_icons=true&theme=radical)
 
