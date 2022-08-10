@@ -10,7 +10,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borimong)](https://github.com/borimong/github-readme-stats)
 
-## Skill stacks learned so far
+## :rocket: Skill stacks learned so far :rocket:
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
