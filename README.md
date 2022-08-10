@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%I'm Hyeonsu Kimrender&fontSize=90)
 
 
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
@@ -27,5 +27,3 @@
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
 </p>
 
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90)
