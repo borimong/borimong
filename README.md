@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20I'm Hyeonsu Kim%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hello%20I'm Hyeonsu Kim&render&fontSize=90)
 
 
 출처: https://yoon990.tistory.com/38 [개발저장소:티스토리]
