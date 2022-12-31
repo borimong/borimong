@@ -6,10 +6,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=borimong)](https://github.com/borimong/github-readme-stats)
 
-## Vision
-### Make Korea Beautiful
-### 한국을 아름답게
-
 ## :sun_with_face: Algorithm :sun_with_face:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)<br/>
