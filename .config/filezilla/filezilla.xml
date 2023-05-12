@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<FileZilla3 version="3.61.0" platform="mac">
+	<Settings>
+		<Setting name="Use Pasv mode">1</Setting>
+		<Setting name="Limit local ports">0</Setting>
+		<Setting name="Limit ports low">6000</Setting>
+		<Setting name="Limit ports high">7000</Setting>
+		<Setting name="Limit ports offset">0</Setting>
+		<Setting name="External IP mode">0</Setting>
+		<Setting name="External IP" />
+		<Setting name="External address resolver">http://ip.filezilla-project.org/ip.php</Setting>
+		<Setting name="Last resolved IP" />
+		<Setting name="No external ip on local conn">1</Setting>
+		<Setting name="Pasv reply fallback mode">0</Setting>
+		<Setting name="Timeout">20</Setting>
+		<Setting name="Logging Debug Level">0</Setting>
+		<Setting name="Logging Raw Listing">0</Setting>
+		<Setting name="Allow transfermode fallback">1</Setting>
+		<Setting name="Reconnect count">2</Setting>
+		<Setting name="Reconnect delay">5</Setting>
+		<Setting name="Enable speed limits">0</Setting>
+		<Setting name="Speedlimit inbound">1000</Setting>
+		<Setting name="Speedlimit outbound">100</Setting>
+		<Setting name="Speedlimit burst tolerance">0</Setting>
+		<Setting name="Preallocate space">0</Setting>
+		<Setting name="View hidden files">0</Setting>
+		<Setting name="Preserve timestamps">0</Setting>
+		<Setting name="Socket recv buffer size (v2)">4194304</Setting>
+		<Setting name="Socket send buffer size (v2)">262144</Setting>
+		<Setting name="FTP Keep-alive commands">0</Setting>
+		<Setting name="FTP Proxy type">0</Setting>
+		<Setting name="FTP Proxy host" />
+		<Setting name="FTP Proxy user" />
+		<Setting name="FTP Proxy password" />
+		<Setting name="FTP Proxy login sequence" />
+		<Setting name="SFTP keyfiles" platform="mac" />
+		<Setting name="SFTP compression">0</Setting>
+		<Setting name="Proxy type">0</Setting>
+		<Setting name="Proxy host" />
+		<Setting name="Proxy port">0</Setting>
+		<Setting name="Proxy user" />
+		<Setting name="Proxy password" />
+		<Setting name="Logging file" platform="mac" />
+		<Setting name="Logging filesize limit">10</Setting>
+		<Setting name="Size format">0</Setting>
+		<Setting name="Size thousands separator">1</Setting>
+		<Setting name="Size decimal places">1</Setting>
+		<Setting name="TCP Keepalive Interval">15</Setting>
+		<Setting name="Cache TTL">600</Setting>
+		<Setting name="Minimum TLS Version">2</Setting>
+		<Setting name="Master password encryptor" />
+		<Setting name="Trust system trust store">0</Setting>
+		<Setting name="Ascii Binary mode">0</Setting>
+		<Setting name="Auto Ascii files">ac|am|asp|bat|c|cfm|cgi|conf|cpp|css|dhtml|diff|diz|h|hpp|htm|html|in|inc|java|js|jsp|lua|m4|mak|md5|nfo|nsh|nsi|pas|patch|pem|php|phtml|pl|po|pot|py|qmail|sh|sha1|sha256|sha512|shtml|sql|svg|tcl|tpl|txt|vbs|xhtml|xml|xrc</Setting>
+		<Setting name="Auto Ascii no extension">1</Setting>
+		<Setting name="Auto Ascii dotfiles">1</Setting>
+		<Setting name="Comparison threshold">1</Setting>
+		<Setting name="Update Check">1</Setting>
+		<Setting name="Update Check Interval">7</Setting>
+		<Setting name="Update Check Check Beta">0</Setting>
+		<Setting name="Cache directory" platform="mac" />
+		<Setting name="Number of Transfers">2</Setting>
+		<Setting name="Language Code" />
+		<Setting name="Concurrent download limit">0</Setting>
+		<Setting name="Concurrent upload limit">0</Setting>
+		<Setting name="Show debug menu">0</Setting>
+		<Setting name="File exists action download">0</Setting>
+		<Setting name="File exists action upload">0</Setting>
+		<Setting name="Allow ascii resume">0</Setting>
+		<Setting name="Greeting resources" />
+		<Setting name="Onetime Dialogs" />
+		<Setting name="Show Tree Local">1</Setting>
+		<Setting name="Show Tree Remote">1</Setting>
+		<Setting name="File Pane Layout">0</Setting>
+		<Setting name="File Pane Swap">0</Setting>
+		<Setting name="Filelist directory sort">0</Setting>
+		<Setting name="Filelist name sort">1</Setting>
+		<Setting name="Queue successful autoclear">0</Setting>
+		<Setting name="Time Format" />
+		<Setting name="Date Format" />
+		<Setting name="Show message log">1</Setting>
+		<Setting name="Show queue">1</Setting>
+		<Setting name="Default editor" platform="mac" />
+		<Setting name="Always use default editor">0</Setting>
+		<Setting name="File associations (v2)" platform="mac" />
+		<Setting name="Comparison mode">1</Setting>
+		<Setting name="Icon theme">default</Setting>
+		<Setting name="Icon scale">125</Setting>
+		<Setting name="Timestamp in message log">0</Setting>
+		<Setting name="Filelist status bar">1</Setting>
+		<Setting name="Filter toggle state">0</Setting>
+		<Setting name="Show quickconnect bar">1</Setting>
+		<Setting name="Messagelog position">0</Setting>
+		<Setting name="File doubleclick action">0</Setting>
+		<Setting name="Dir doubleclick action">0</Setting>
+		<Setting name="Minimize to tray">0</Setting>
+		<Setting name="Search column widths" />
+		<Setting name="Search column shown" />
+		<Setting name="Search column order" />
+		<Setting name="Search window size" />
+		<Setting name="Comparison hide identical">0</Setting>
+		<Setting name="Search sort order" />
+		<Setting name="Edit track local">1</Setting>
+		<Setting name="Prevent idle sleep">1</Setting>
+		<Setting name="Filteredit window size" />
+		<Setting name="Enable invalid char filter">1</Setting>
+		<Setting name="Invalid char replace">_</Setting>
+		<Setting name="Already connected choice">0</Setting>
+		<Setting name="Edit status dialog size" />
+		<Setting name="Display current speed">0</Setting>
+		<Setting name="Toolbar hidden">0</Setting>
+		<Setting name="Strip VMS revisions">0</Setting>
+		<Setting name="Startup action">0</Setting>
+		<Setting name="Persistent Choices">0</Setting>
+		<Setting name="Queue completion action">1</Setting>
+		<Setting name="Queue completion command" />
+		<Setting name="Drag and Drop disabled">0</Setting>
+		<Setting name="Disable update footer">0</Setting>
+		<Setting name="Highest shown overlay id">0</Setting>
+		<Setting name="Greeting version">3.61.0</Setting>
+		<Setting name="Last automatic update version">3.61.0</Setting>
+		<Setting name="Kiosk mode">1</Setting>
+		<Setting name="Prompt password save">0</Setting>
+		<Setting name="Sitemanager last selected">0/새 사이트</Setting>
+		<Setting name="Site Manager position">0 600 233 840 446 </Setting>
+		<Setting name="Queue column widths">180 60 180 80 60 150</Setting>
+		<Setting name="Local filelist colwidths">170 80 120 120</Setting>
+		<Setting name="Remote filelist colwidths">150 75 80 100 80 85</Setting>
+		<Setting name="Window position and size">0 136 90 1200 719 </Setting>
+		<Setting name="Splitter positions (v2)">97 -132 500000000 181 181 500000000</Setting>
+		<Setting name="Local filelist shown columns">1111</Setting>
+		<Setting name="Remote filelist shown columns">111111</Setting>
+		<Setting name="Local filelist column order">0,1,2,3</Setting>
+		<Setting name="Remote filelist column order">0,1,2,3,4,5</Setting>
+		<Setting name="Tab data" sensitive="1">
+			<Tabs>
+				<Tab selected="1">
+					<Host>ip-cal.ewha.ac.kr</Host>
+					<Port>22</Port>
+					<Protocol>0</Protocol>
+					<Type>0</Type>
+					<User>caclass45</User>
+					<Logontype>2</Logontype>
+					<PasvMode>MODE_DEFAULT</PasvMode>
+					<EncodingType>Auto</EncodingType>
+					<BypassProxy>0</BypassProxy>
+					<Name>새 사이트</Name>
+					<Site>0/새 사이트</Site>
+					<RemotePath />
+					<LocalPath>/Users/gimhyeonsu/</LocalPath>
+				</Tab>
+			</Tabs>
+		</Setting>
+		<Setting name="Local filelist sortorder">0 0</Setting>
+		<Setting name="Remote filelist sortorder">0 0</Setting>
+		<Setting name="Last automatic update check">2022-10-27 06:37:45</Setting>
+		<Setting name="Update Check New Version" platform="mac">nightly 2022-09-29 https://filezilla-project.org/nightlies/2022-09-29/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 15033661 sha512 430768182125d510e0300421d26c1e347bcb9387ac80f7cf6f77ea8dba38c5cdae6cdb2df077d6e8640721987ba812b2d497fb4912b9e053d0048d2bc474e738 sig:uWEkQHGD8vmwSoCg78aMlojS6mDYATsOSMLgH13lIMwLz5QSRIDra0hvIVmTajv8cT/rEcHpQ5T0ySJI9tJcDg
+release 3.60.2 https://dl3.cdn.filezilla-project.org/FileZilla_3.60.2_macosx-x86.app.tar.bz2 14723530 sha512 f0e178539068378d503a570faa7ec8283251687ec2744d5eb247c55183eb8e88c541dd82cdb9ea0138389ba98ee27251ba2db4fec2a77bfd75e5a8b6cba13570 sig:zpVWcZM/8jeMwr/hQMdarnsSFNJ16EV7S6If+mhHhqfw+/rq2MEeTcLk5hSMXvTq6CreGG+7hs2cXBC3XoTcAg
+nightly 2022-10-04 https://filezilla-project.org/nightlies/2022-10-04/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 15040218 sha512 61f60e360f698f592bfbde555374938210c01d6736868154f4505a4e30517b7829910e99ae1f572e71b8ad9558903033368c75e0d69f4043aeedc7d02315f173 sig:6mDw3lT/Ix39SIyLrmjTA+fKExIBFO9L7aR8zcZI8e4WTwpijDzW6S6fC3ZG+Py87nGj6pXgnah4o7zT/7ZNDA
+release 3.60.2 https://dl4.cdn.filezilla-project.org/FileZilla_3.60.2_macosx-x86.app.tar.bz2 14723530 sha512 f0e178539068378d503a570faa7ec8283251687ec2744d5eb247c55183eb8e88c541dd82cdb9ea0138389ba98ee27251ba2db4fec2a77bfd75e5a8b6cba13570 sig:zpVWcZM/8jeMwr/hQMdarnsSFNJ16EV7S6If+mhHhqfw+/rq2MEeTcLk5hSMXvTq6CreGG+7hs2cXBC3XoTcAg
+nightly 2022-10-13 https://filezilla-project.org/nightlies/2022-10-13/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 15043181 sha512 d174efe097c5f93667cd54c7c51d5b34a19ac5ff73ffcab186678d23c3e3e69c80696c8c5d24c2c80ba8eb618dd03d25433940c0869af8e3c045bfad407e66a1 sig:s+pHMYwiU7CqZ1U5EaZm2EzqzplK8JAdgur9fxoXe+pgK0pF6hYXAXy8iq9i1F7RGjRZTp05P9DZ6eTFeBjZDA
+release 3.60.2 https://dl2.cdn.filezilla-project.org/FileZilla_3.60.2_macosx-x86.app.tar.bz2 14723530 sha512 f0e178539068378d503a570faa7ec8283251687ec2744d5eb247c55183eb8e88c541dd82cdb9ea0138389ba98ee27251ba2db4fec2a77bfd75e5a8b6cba13570 sig:zpVWcZM/8jeMwr/hQMdarnsSFNJ16EV7S6If+mhHhqfw+/rq2MEeTcLk5hSMXvTq6CreGG+7hs2cXBC3XoTcAg
+nightly 2022-10-20 https://filezilla-project.org/nightlies/2022-10-20/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 15040533 sha512 874e24af0ca0a71f4d7b64b9e1c60fcf822842fe7c1805dcc0d30e6b18862a0fbacd479b3603cc2178236a61a051d4e9ed4df38f66863b712cbd6d9c9697eb2c sig:0nC7LwAH3ai+QxHgOSIUsg1lrSYvjeKCFKsxNITJjbv0Sw74UFQxJoTTILZXYZ7ssRxsaZjVxQG0q8fRzGDrCA
+release 3.61.0 https://dl4.cdn.filezilla-project.org/FileZilla_3.61.0_macosx-x86.app.tar.bz2 14737470 sha512 2553a160c093ed38279c19f486c83c91837c77afd373800e17c696502327b58909546e589a897df178e444ca9a8f40fc44bc8ef8d6d8ccc3223308599e31ab12 sig:owHeoxKX+F30n4dsaXNGAPMjbL3ZEEVh8IKcjuZmqOQ/LtF3MFjVy/L9KNqplLaebmcF6rmU5UbzaRQ+YZgeCQ
+beta 3.62.0-beta1 https://dl4.cdn.filezilla-project.org/FileZilla_3.62.0-beta1_macosx-x86.app.tar.bz2 15043128 sha512 f3bc793091457aa6eac4d467934afcd20dd49232fa0ebe6d6aad002bb4a218e3152a63dd4f5097d3efceee44ca9300603ed45ecdb4dda6608a795579d851159d sig:YgBqv8GrCFdnkWSZuWWFvGDxGT/i0QKwXLD5MB8QzINLEHEF70L9d4n1vKkx7ylDSSa3FaUFL7wp6oxV+gd0BA
+
+3.62.0-beta1 (2022-10-11)
+
+- macOS binaries are now built against wxWidgets 3.2.1
+- updated ot libfilezilla 0.39.2
+nightly 2022-10-27 https://filezilla-project.org/nightlies/2022-10-27/x86_64-apple-darwin18.2.0/FileZilla3.app.tar.bz2 15443913 sha512 f8780627a0d73ff53dedf0986505aa8b84f25450de1169390ea88dfb470daa1b77b75a1f6440f10f97eacc0bcc77c9430d00d2c1031f6945a0fe2bce81f0c328 sig:wMN9qIlVXSu+ZKzmMa5vyopRlIFHF+1XKfZwX/K/4l5WZxPrt/kd1nm30a+KjwJ4qoueJXaBmTKv+9Ak3uUyCg
+release 3.60.2 https://dl2.cdn.filezilla-project.org/FileZilla_3.60.2_macosx-x86.app.tar.bz2 14723530 sha512 f0e178539068378d503a570faa7ec8283251687ec2744d5eb247c55183eb8e88c541dd82cdb9ea0138389ba98ee27251ba2db4fec2a77bfd75e5a8b6cba13570 sig:zpVWcZM/8jeMwr/hQMdarnsSFNJ16EV7S6If+mhHhqfw+/rq2MEeTcLk5hSMXvTq6CreGG+7hs2cXBC3XoTcAg
+</Setting>
+	</Settings>
+</FileZilla3>
