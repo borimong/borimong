@@ -1,4 +1,5 @@
-# Hi there 👋, Borimong here. 
+<h1>Hi there <a href="https://github.com/borimong" target="_self"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> Borimong here :) </h1>
+  
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=borimong-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/borimong.svg?style=social&label=Follow)](https://github.com/borimong?tab=followers)<br/>
 
 <!--
@@ -10,7 +11,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a college senior majoring in Computer Science and Engineering at 🎓 Ewha Womans University. Javascript and Typescript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I'm a college senior majoring in Computer Science and Engineering at 🎓 <i>Ewha Womans University</i>. Javascript and Typescript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web Frontend development**
 - 🌱 I’m currently learning ...
   - Typescript & Javascript
