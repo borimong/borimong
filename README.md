@@ -27,6 +27,9 @@ I'm a college senior majoring in Computer Science and Engineering at 🎓 Ewha W
 
 - <a href="https://makers.sopt.org/">SOPT Makers</a> 3rd FE
 - <a href="https://www.sopt.org/">SOPT</a> 31st, 32nd Web
+  - <a href="https://sophy-happy.vercel.app/home">Sophy</a> 
+  - <a href="https://ownsize.me/landing">Ownsize</a>
+  - <a href="https://makeawish.vercel.app">Somalman</a>
 - <a href="https://gdsc.community.dev/ewha-womans-university/">Google Developer Student Club Ewha</a> 3rd Member, 4th Core Member
 
 
