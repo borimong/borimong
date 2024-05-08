@@ -26,7 +26,7 @@ I'm a college senior majoring in Computer Science and Engineering at 🎓 <i>Ewh
 
 <h2>✨ My activities</h2>
 
-- <a href="https://makers.sopt.org/">SOPT Makers</a> 3rd FE
+- <a href="https://makers.sopt.org/">SOPT Makers</a> 3rd & 4th FE
 - <a href="https://www.sopt.org/">SOPT</a> 31st, 32nd Web
   - <a href="https://sophy-happy.vercel.app/home">Sophy</a> 
   - <a href="https://ownsize.me/landing">Ownsize</a>
