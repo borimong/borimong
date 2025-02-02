@@ -6,8 +6,7 @@
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/borimong/borimong/assets/86764406/040b9701-cdc3-4d04-aa0e-e6fc7c8f262e" />
-
+<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/b8965aa6-0fcb-4b34-a451-1d4448f9141a" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
