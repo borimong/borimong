@@ -52,4 +52,5 @@ I'm a college senior majoring in Computer Science and Engineering at 🎓 <i>Ewh
   
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)
 
