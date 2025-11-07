@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a college senior majoring in Computer Science and Engineering at 🎓 <i>Ewha Womans University</i>. Javascript and Typescript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I graduated from Ewha Womans University in February 2025 with a bachelor's degree in Computer Science and Engineering.🎓 Javascript and Typescript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 * **I am interested in Web Frontend development**
 - 🌱 I’m currently learning ...
   - Typescript & Javascript
