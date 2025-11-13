@@ -53,4 +53,5 @@ I graduated from Ewha Womans University in February 2025 with a bachelor's degre
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimhyunsu11)](https://solved.ac/kimhyunsu11)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
 
