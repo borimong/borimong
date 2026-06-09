@@ -1,4 +1,4 @@
-<h1>Hi there <a href="https://github.com/borimong" target="_self"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> Borimong here :) </h1>
+<h1>Hi there <a href="https://github.com/borimong" target="_self"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a> Hyeonsu Kim here :) </h1>
   
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=borimong-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/borimong.svg?style=social&label=Follow)](https://github.com/borimong?tab=followers)<br/>
 
